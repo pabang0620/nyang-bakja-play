@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "source": "placeholder",
+  "audio": "massage.mp3",
+  "bpm": 124,
+  "offsetSec": 0.5,
+  "beatsPerBar": 4,
+  "bars": 48,
+  "durationSec": 95.3387,
+  "beats": null
+}

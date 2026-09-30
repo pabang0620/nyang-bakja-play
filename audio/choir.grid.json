@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "source": "placeholder",
+  "audio": "choir.mp3",
+  "bpm": 92,
+  "offsetSec": 0.5,
+  "beatsPerBar": 4,
+  "bars": 40,
+  "durationSec": 107.4565,
+  "beats": null
+}

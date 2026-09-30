@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "source": "placeholder",
+  "audio": "cannery.mp3",
+  "bpm": 110,
+  "offsetSec": 0.5,
+  "beatsPerBar": 4,
+  "bars": 44,
+  "durationSec": 98.6818,
+  "beats": null
+}
