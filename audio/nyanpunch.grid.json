@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "source": "placeholder",
+  "audio": "nyanpunch.mp3",
+  "bpm": 120,
+  "offsetSec": 0.5,
+  "beatsPerBar": 4,
+  "bars": 52,
+  "durationSec": 106.5,
+  "beats": null
+}
