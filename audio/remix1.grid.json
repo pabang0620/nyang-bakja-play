@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "source": "placeholder",
+  "source": "flow-music",
   "audio": "remix1.mp3",
   "bpm": 116,
   "offsetSec": 0.5,
   "beatsPerBar": 4,
   "bars": 56,
-  "durationSec": 118.431,
+  "durationSec": 122.0,
   "beats": null
 }

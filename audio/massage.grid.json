@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "source": "placeholder",
+  "source": "flow-music",
   "audio": "massage.mp3",
   "bpm": 124,
   "offsetSec": 0.5,
   "beatsPerBar": 4,
   "bars": 48,
-  "durationSec": 95.3387,
+  "durationSec": 98.7742,
   "beats": null
 }
