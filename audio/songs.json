@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "games": {
+    "remix1": [
+      {
+        "id": "remix1-try5",
+        "title": "리믹스 2번 곡",
+        "bgm": "audio/songs/remix1-try5.mp3",
+        "grid": "audio/songs/remix1-try5.grid.json"
+      },
+      {
+        "id": "remix1-try6",
+        "title": "리믹스 3번 곡",
+        "bgm": "audio/songs/remix1-try6.mp3",
+        "grid": "audio/songs/remix1-try6.grid.json"
+      }
+    ]
+  }
+}

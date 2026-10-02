@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "source": "flow-music",
+  "audio": "remix1-try5.mp3",
+  "bpm": 116,
+  "offsetSec": 0.51762,
+  "beatsPerBar": 4,
+  "bars": 56,
+  "durationSec": 122.0176,
+  "beats": null
+}
