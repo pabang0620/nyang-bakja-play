@@ -6,25 +6,29 @@
         "id": "remix1-try5",
         "title": "골목 리믹스 B",
         "bgm": "audio/songs/remix1-try5.mp3",
-        "grid": "audio/songs/remix1-try5.grid.json"
+        "grid": "audio/songs/remix1-try5.grid.json",
+        "durationSec": 122.0
       },
       {
         "id": "remix1-try6",
         "title": "골목 리믹스 C",
         "bgm": "audio/songs/remix1-try6.mp3",
-        "grid": "audio/songs/remix1-try6.grid.json"
+        "grid": "audio/songs/remix1-try6.grid.json",
+        "durationSec": 124.3
       },
       {
         "id": "remix1-gen2",
         "title": "디스코 피날레",
         "bgm": "audio/songs/remix1-gen2.mp3",
-        "grid": "audio/songs/remix1-gen2.grid.json"
+        "grid": "audio/songs/remix1-gen2.grid.json",
+        "durationSec": 122.3
       },
       {
         "id": "remix1-gen4",
         "title": "축제 디스코",
         "bgm": "audio/songs/remix1-gen4.mp3",
-        "grid": "audio/songs/remix1-gen4.grid.json"
+        "grid": "audio/songs/remix1-gen4.grid.json",
+        "durationSec": 122.6
       }
     ],
     "cannery": [
@@ -32,37 +36,43 @@
         "id": "cannery-gen1",
         "title": "통통 공장",
         "bgm": "audio/songs/cannery-gen1.mp3",
-        "grid": "audio/songs/cannery-gen1.grid.json"
+        "grid": "audio/songs/cannery-gen1.grid.json",
+        "durationSec": 103.3
       },
       {
         "id": "cannery-gen2",
         "title": "펑키 공장",
         "bgm": "audio/songs/cannery-gen2.mp3",
-        "grid": "audio/songs/cannery-gen2.grid.json"
+        "grid": "audio/songs/cannery-gen2.grid.json",
+        "durationSec": 102.4
       },
       {
         "id": "cannery-gen4",
         "title": "공장 밴드",
         "bgm": "audio/songs/cannery-gen4.mp3",
-        "grid": "audio/songs/cannery-gen4.grid.json"
+        "grid": "audio/songs/cannery-gen4.grid.json",
+        "durationSec": 104.0
       },
       {
         "id": "cannery-gen7",
         "title": "만화 공장",
         "bgm": "audio/songs/cannery-gen7.mp3",
-        "grid": "audio/songs/cannery-gen7.grid.json"
+        "grid": "audio/songs/cannery-gen7.grid.json",
+        "durationSec": 103.3
       },
       {
         "id": "cannery-gen8",
         "title": "장난감 폴카",
         "bgm": "audio/songs/cannery-gen8.mp3",
-        "grid": "audio/songs/cannery-gen8.grid.json"
+        "grid": "audio/songs/cannery-gen8.grid.json",
+        "durationSec": 103.0
       },
       {
         "id": "cannery-gen9",
         "title": "트럼펫 공장",
         "bgm": "audio/songs/cannery-gen9.mp3",
-        "grid": "audio/songs/cannery-gen9.grid.json"
+        "grid": "audio/songs/cannery-gen9.grid.json",
+        "durationSec": 103.0
       }
     ],
     "choir": [
@@ -70,25 +80,29 @@
         "id": "choir-gen1",
         "title": "우쿨렐레 골목",
         "bgm": "audio/songs/choir-gen1.mp3",
-        "grid": "audio/songs/choir-gen1.grid.json"
+        "grid": "audio/songs/choir-gen1.grid.json",
+        "durationSec": 111.6
       },
       {
         "id": "choir-gen2",
         "title": "두왑 무대",
         "bgm": "audio/songs/choir-gen2.mp3",
-        "grid": "audio/songs/choir-gen2.grid.json"
+        "grid": "audio/songs/choir-gen2.grid.json",
+        "durationSec": 113.3
       },
       {
         "id": "choir-gen3",
         "title": "등불 골목",
         "bgm": "audio/songs/choir-gen3.mp3",
-        "grid": "audio/songs/choir-gen3.grid.json"
+        "grid": "audio/songs/choir-gen3.grid.json",
+        "durationSec": 113.7
       },
       {
         "id": "choir-gen4",
         "title": "달밤 소울",
         "bgm": "audio/songs/choir-gen4.mp3",
-        "grid": "audio/songs/choir-gen4.grid.json"
+        "grid": "audio/songs/choir-gen4.grid.json",
+        "durationSec": 111.6
       }
     ],
     "nyanpunch": [
@@ -96,31 +110,36 @@
         "id": "nyanpunch-gen1",
         "title": "도장 수련",
         "bgm": "audio/songs/nyanpunch-gen1.mp3",
-        "grid": "audio/songs/nyanpunch-gen1.grid.json"
+        "grid": "audio/songs/nyanpunch-gen1.grid.json",
+        "durationSec": 110.0
       },
       {
         "id": "nyanpunch-gen4",
         "title": "액션 펑크",
         "bgm": "audio/songs/nyanpunch-gen4.mp3",
-        "grid": "audio/songs/nyanpunch-gen4.grid.json"
+        "grid": "audio/songs/nyanpunch-gen4.grid.json",
+        "durationSec": 110.6
       },
       {
         "id": "nyanpunch-gen5",
         "title": "쿵후 힙합",
         "bgm": "audio/songs/nyanpunch-gen5.mp3",
-        "grid": "audio/songs/nyanpunch-gen5.grid.json"
+        "grid": "audio/songs/nyanpunch-gen5.grid.json",
+        "durationSec": 110.0
       },
       {
         "id": "nyanpunch-gen7",
         "title": "도장 비트",
         "bgm": "audio/songs/nyanpunch-gen7.mp3",
-        "grid": "audio/songs/nyanpunch-gen7.grid.json"
+        "grid": "audio/songs/nyanpunch-gen7.grid.json",
+        "durationSec": 110.3
       },
       {
         "id": "nyanpunch-gen8",
         "title": "닌자 일렉트로",
         "bgm": "audio/songs/nyanpunch-gen8.mp3",
-        "grid": "audio/songs/nyanpunch-gen8.grid.json"
+        "grid": "audio/songs/nyanpunch-gen8.grid.json",
+        "durationSec": 110.0
       }
     ],
     "massage": [
@@ -128,31 +147,36 @@
         "id": "massage-gen3",
         "title": "칠 하우스",
         "bgm": "audio/songs/massage-gen3.mp3",
-        "grid": "audio/songs/massage-gen3.grid.json"
+        "grid": "audio/songs/massage-gen3.grid.json",
+        "durationSec": 98.8
       },
       {
         "id": "massage-gen5",
         "title": "포근한 딥하우스",
         "bgm": "audio/songs/massage-gen5.mp3",
-        "grid": "audio/songs/massage-gen5.grid.json"
+        "grid": "audio/songs/massage-gen5.grid.json",
+        "durationSec": 99.8
       },
       {
         "id": "massage-gen7",
         "title": "트로피컬",
         "bgm": "audio/songs/massage-gen7.mp3",
-        "grid": "audio/songs/massage-gen7.grid.json"
+        "grid": "audio/songs/massage-gen7.grid.json",
+        "durationSec": 98.8
       },
       {
         "id": "massage-gen8",
         "title": "느긋한 하우스",
         "bgm": "audio/songs/massage-gen8.mp3",
-        "grid": "audio/songs/massage-gen8.grid.json"
+        "grid": "audio/songs/massage-gen8.grid.json",
+        "durationSec": 102.1
       },
       {
         "id": "massage-gen9",
         "title": "따뜻한 딥하우스",
         "bgm": "audio/songs/massage-gen9.mp3",
-        "grid": "audio/songs/massage-gen9.grid.json"
+        "grid": "audio/songs/massage-gen9.grid.json",
+        "durationSec": 98.8
       }
     ]
   }
