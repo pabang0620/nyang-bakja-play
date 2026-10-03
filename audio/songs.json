@@ -14,6 +14,62 @@
         "bgm": "audio/songs/remix1-try6.mp3",
         "grid": "audio/songs/remix1-try6.grid.json"
       }
+    ],
+    "cannery": [
+      {
+        "id": "cannery-gen1",
+        "title": "통조림 2번 곡",
+        "bgm": "audio/songs/cannery-gen1.mp3",
+        "grid": "audio/songs/cannery-gen1.grid.json"
+      },
+      {
+        "id": "cannery-gen2",
+        "title": "통조림 3번 곡",
+        "bgm": "audio/songs/cannery-gen2.mp3",
+        "grid": "audio/songs/cannery-gen2.grid.json"
+      }
+    ],
+    "choir": [
+      {
+        "id": "choir-gen1",
+        "title": "합창 2번 곡",
+        "bgm": "audio/songs/choir-gen1.mp3",
+        "grid": "audio/songs/choir-gen1.grid.json"
+      },
+      {
+        "id": "choir-gen2",
+        "title": "합창 3번 곡",
+        "bgm": "audio/songs/choir-gen2.mp3",
+        "grid": "audio/songs/choir-gen2.grid.json"
+      }
+    ],
+    "nyanpunch": [
+      {
+        "id": "nyanpunch-gen1",
+        "title": "냥펀치 2번 곡",
+        "bgm": "audio/songs/nyanpunch-gen1.mp3",
+        "grid": "audio/songs/nyanpunch-gen1.grid.json"
+      },
+      {
+        "id": "nyanpunch-gen4",
+        "title": "냥펀치 3번 곡",
+        "bgm": "audio/songs/nyanpunch-gen4.mp3",
+        "grid": "audio/songs/nyanpunch-gen4.grid.json"
+      }
+    ],
+    "massage": [
+      {
+        "id": "massage-gen3",
+        "title": "마사지 2번 곡",
+        "bgm": "audio/songs/massage-gen3.mp3",
+        "grid": "audio/songs/massage-gen3.grid.json"
+      },
+      {
+        "id": "massage-gen5",
+        "title": "마사지 3번 곡",
+        "bgm": "audio/songs/massage-gen5.mp3",
+        "grid": "audio/songs/massage-gen5.grid.json"
+      }
     ]
   }
 }
