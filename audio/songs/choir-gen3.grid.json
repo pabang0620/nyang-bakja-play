@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "source": "flow-music",
+  "audio": "choir-gen3.mp3",
+  "bpm": 92,
+  "offsetSec": 2.6752,
+  "beatsPerBar": 4,
+  "bars": 40,
+  "durationSec": 113.7404,
+  "beats": null
+}

@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "source": "flow-music",
+  "audio": "cannery-gen9.mp3",
+  "bpm": 110,
+  "offsetSec": 1.08952,
+  "beatsPerBar": 4,
+  "bars": 44,
+  "durationSec": 102.9532,
+  "beats": null
+}
