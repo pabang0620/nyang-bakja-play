@@ -4,25 +4,25 @@
     "remix1": [
       {
         "id": "remix1-try5",
-        "title": "리믹스 2번 곡",
+        "title": "골목 리믹스 B",
         "bgm": "audio/songs/remix1-try5.mp3",
         "grid": "audio/songs/remix1-try5.grid.json"
       },
       {
         "id": "remix1-try6",
-        "title": "리믹스 3번 곡",
+        "title": "골목 리믹스 C",
         "bgm": "audio/songs/remix1-try6.mp3",
         "grid": "audio/songs/remix1-try6.grid.json"
       },
       {
         "id": "remix1-gen2",
-        "title": "리믹스 4번 곡",
+        "title": "디스코 피날레",
         "bgm": "audio/songs/remix1-gen2.mp3",
         "grid": "audio/songs/remix1-gen2.grid.json"
       },
       {
         "id": "remix1-gen4",
-        "title": "리믹스 5번 곡",
+        "title": "축제 디스코",
         "bgm": "audio/songs/remix1-gen4.mp3",
         "grid": "audio/songs/remix1-gen4.grid.json"
       }
@@ -30,37 +30,37 @@
     "cannery": [
       {
         "id": "cannery-gen1",
-        "title": "통조림 2번 곡",
+        "title": "통통 공장",
         "bgm": "audio/songs/cannery-gen1.mp3",
         "grid": "audio/songs/cannery-gen1.grid.json"
       },
       {
         "id": "cannery-gen2",
-        "title": "통조림 3번 곡",
+        "title": "펑키 공장",
         "bgm": "audio/songs/cannery-gen2.mp3",
         "grid": "audio/songs/cannery-gen2.grid.json"
       },
       {
         "id": "cannery-gen4",
-        "title": "통조림 4번 곡",
+        "title": "공장 밴드",
         "bgm": "audio/songs/cannery-gen4.mp3",
         "grid": "audio/songs/cannery-gen4.grid.json"
       },
       {
         "id": "cannery-gen7",
-        "title": "통조림 5번 곡",
+        "title": "만화 공장",
         "bgm": "audio/songs/cannery-gen7.mp3",
         "grid": "audio/songs/cannery-gen7.grid.json"
       },
       {
         "id": "cannery-gen8",
-        "title": "통조림 6번 곡",
+        "title": "장난감 폴카",
         "bgm": "audio/songs/cannery-gen8.mp3",
         "grid": "audio/songs/cannery-gen8.grid.json"
       },
       {
         "id": "cannery-gen9",
-        "title": "통조림 7번 곡",
+        "title": "트럼펫 공장",
         "bgm": "audio/songs/cannery-gen9.mp3",
         "grid": "audio/songs/cannery-gen9.grid.json"
       }
@@ -68,25 +68,25 @@
     "choir": [
       {
         "id": "choir-gen1",
-        "title": "합창 2번 곡",
+        "title": "우쿨렐레 골목",
         "bgm": "audio/songs/choir-gen1.mp3",
         "grid": "audio/songs/choir-gen1.grid.json"
       },
       {
         "id": "choir-gen2",
-        "title": "합창 3번 곡",
+        "title": "두왑 무대",
         "bgm": "audio/songs/choir-gen2.mp3",
         "grid": "audio/songs/choir-gen2.grid.json"
       },
       {
         "id": "choir-gen3",
-        "title": "합창 4번 곡",
+        "title": "등불 골목",
         "bgm": "audio/songs/choir-gen3.mp3",
         "grid": "audio/songs/choir-gen3.grid.json"
       },
       {
         "id": "choir-gen4",
-        "title": "합창 5번 곡",
+        "title": "달밤 소울",
         "bgm": "audio/songs/choir-gen4.mp3",
         "grid": "audio/songs/choir-gen4.grid.json"
       }
@@ -94,31 +94,31 @@
     "nyanpunch": [
       {
         "id": "nyanpunch-gen1",
-        "title": "냥펀치 2번 곡",
+        "title": "도장 수련",
         "bgm": "audio/songs/nyanpunch-gen1.mp3",
         "grid": "audio/songs/nyanpunch-gen1.grid.json"
       },
       {
         "id": "nyanpunch-gen4",
-        "title": "냥펀치 3번 곡",
+        "title": "액션 펑크",
         "bgm": "audio/songs/nyanpunch-gen4.mp3",
         "grid": "audio/songs/nyanpunch-gen4.grid.json"
       },
       {
         "id": "nyanpunch-gen5",
-        "title": "냥펀치 4번 곡",
+        "title": "쿵후 힙합",
         "bgm": "audio/songs/nyanpunch-gen5.mp3",
         "grid": "audio/songs/nyanpunch-gen5.grid.json"
       },
       {
         "id": "nyanpunch-gen7",
-        "title": "냥펀치 5번 곡",
+        "title": "도장 비트",
         "bgm": "audio/songs/nyanpunch-gen7.mp3",
         "grid": "audio/songs/nyanpunch-gen7.grid.json"
       },
       {
         "id": "nyanpunch-gen8",
-        "title": "냥펀치 6번 곡",
+        "title": "닌자 일렉트로",
         "bgm": "audio/songs/nyanpunch-gen8.mp3",
         "grid": "audio/songs/nyanpunch-gen8.grid.json"
       }
@@ -126,31 +126,31 @@
     "massage": [
       {
         "id": "massage-gen3",
-        "title": "마사지 2번 곡",
+        "title": "칠 하우스",
         "bgm": "audio/songs/massage-gen3.mp3",
         "grid": "audio/songs/massage-gen3.grid.json"
       },
       {
         "id": "massage-gen5",
-        "title": "마사지 3번 곡",
+        "title": "포근한 딥하우스",
         "bgm": "audio/songs/massage-gen5.mp3",
         "grid": "audio/songs/massage-gen5.grid.json"
       },
       {
         "id": "massage-gen7",
-        "title": "마사지 4번 곡",
+        "title": "트로피컬",
         "bgm": "audio/songs/massage-gen7.mp3",
         "grid": "audio/songs/massage-gen7.grid.json"
       },
       {
         "id": "massage-gen8",
-        "title": "마사지 5번 곡",
+        "title": "느긋한 하우스",
         "bgm": "audio/songs/massage-gen8.mp3",
         "grid": "audio/songs/massage-gen8.grid.json"
       },
       {
         "id": "massage-gen9",
-        "title": "마사지 6번 곡",
+        "title": "따뜻한 딥하우스",
         "bgm": "audio/songs/massage-gen9.mp3",
         "grid": "audio/songs/massage-gen9.grid.json"
       }
