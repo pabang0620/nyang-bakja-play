@@ -140,6 +140,41 @@
         "bgm": "audio/songs/nyanpunch-gen8.mp3",
         "grid": "audio/songs/nyanpunch-gen8.grid.json",
         "durationSec": 110.0
+      },
+      {
+        "id": "nyanpunch-gen11",
+        "title": "신스웨이브 도장",
+        "bgm": "audio/songs/nyanpunch-gen11.mp3",
+        "grid": "audio/songs/nyanpunch-gen11.grid.json",
+        "durationSec": 110.4
+      },
+      {
+        "id": "nyanpunch-gen12",
+        "title": "타이코 축제",
+        "bgm": "audio/songs/nyanpunch-gen12.mp3",
+        "grid": "audio/songs/nyanpunch-gen12.grid.json",
+        "durationSec": 110.0
+      },
+      {
+        "id": "nyanpunch-gen14",
+        "title": "칩튠 닌자",
+        "bgm": "audio/songs/nyanpunch-gen14.mp3",
+        "grid": "audio/songs/nyanpunch-gen14.grid.json",
+        "durationSec": 109.9
+      },
+      {
+        "id": "nyanpunch-gen15",
+        "title": "록 도장",
+        "bgm": "audio/songs/nyanpunch-gen15.mp3",
+        "grid": "audio/songs/nyanpunch-gen15.grid.json",
+        "durationSec": 111.5
+      },
+      {
+        "id": "nyanpunch-gen16",
+        "title": "재즈합 수련",
+        "bgm": "audio/songs/nyanpunch-gen16.mp3",
+        "grid": "audio/songs/nyanpunch-gen16.grid.json",
+        "durationSec": 111.5
       }
     ],
     "massage": [

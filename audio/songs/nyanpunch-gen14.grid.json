@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "source": "flow-music",
+  "audio": "nyanpunch-gen14.mp3",
+  "bpm": 120,
+  "offsetSec": 0.38883,
+  "beatsPerBar": 4,
+  "bars": 52,
+  "durationSec": 109.8888,
+  "beats": null
+}
