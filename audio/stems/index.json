@@ -3,6 +3,7 @@
   "songs": [
     "cannery",
     "cannery-gen1",
+    "cannery-gen13",
     "cannery-gen2",
     "cannery-gen4",
     "cannery-gen7",
@@ -13,7 +14,12 @@
     "choir-gen2",
     "choir-gen3",
     "choir-gen4",
+    "choir-gen5",
+    "choir-gen7",
+    "choir-gen8",
     "massage",
+    "massage-gen11",
+    "massage-gen12",
     "massage-gen3",
     "massage-gen5",
     "massage-gen7",
@@ -31,8 +37,11 @@
     "nyanpunch-gen7",
     "nyanpunch-gen8",
     "remix1",
+    "remix1-gen11",
     "remix1-gen2",
     "remix1-gen4",
+    "remix1-gen7",
+    "remix1-gen8",
     "remix1-try5",
     "remix1-try6"
   ]

@@ -29,6 +29,27 @@
         "bgm": "audio/songs/remix1-gen4.mp3",
         "grid": "audio/songs/remix1-gen4.grid.json",
         "durationSec": 122.6
+      },
+      {
+        "id": "remix1-gen8",
+        "title": "냥이 아이돌",
+        "bgm": "audio/songs/remix1-gen8.mp3",
+        "grid": "audio/songs/remix1-gen8.grid.json",
+        "durationSec": 122.3
+      },
+      {
+        "id": "remix1-gen11",
+        "title": "로봇 댄스",
+        "bgm": "audio/songs/remix1-gen11.mp3",
+        "grid": "audio/songs/remix1-gen11.grid.json",
+        "durationSec": 122.6
+      },
+      {
+        "id": "remix1-gen7",
+        "title": "칩튠 파티",
+        "bgm": "audio/songs/remix1-gen7.mp3",
+        "grid": "audio/songs/remix1-gen7.grid.json",
+        "durationSec": 122.1
       }
     ],
     "cannery": [
@@ -73,6 +94,13 @@
         "bgm": "audio/songs/cannery-gen9.mp3",
         "grid": "audio/songs/cannery-gen9.grid.json",
         "durationSec": 103.0
+      },
+      {
+        "id": "cannery-gen13",
+        "title": "컨트리 통조림",
+        "bgm": "audio/songs/cannery-gen13.mp3",
+        "grid": "audio/songs/cannery-gen13.grid.json",
+        "durationSec": 103.8
       }
     ],
     "choir": [
@@ -103,6 +131,27 @@
         "bgm": "audio/songs/choir-gen4.mp3",
         "grid": "audio/songs/choir-gen4.grid.json",
         "durationSec": 111.6
+      },
+      {
+        "id": "choir-gen5",
+        "title": "달빛 로파이",
+        "bgm": "audio/songs/choir-gen5.mp3",
+        "grid": "audio/songs/choir-gen5.grid.json",
+        "durationSec": 111.6
+      },
+      {
+        "id": "choir-gen8",
+        "title": "가스펠 골목",
+        "bgm": "audio/songs/choir-gen8.mp3",
+        "grid": "audio/songs/choir-gen8.grid.json",
+        "durationSec": 111.6
+      },
+      {
+        "id": "choir-gen7",
+        "title": "레트로 코러스",
+        "bgm": "audio/songs/choir-gen7.mp3",
+        "grid": "audio/songs/choir-gen7.grid.json",
+        "durationSec": 113.4
       }
     ],
     "nyanpunch": [
@@ -211,6 +260,20 @@
         "title": "따뜻한 딥하우스",
         "bgm": "audio/songs/massage-gen9.mp3",
         "grid": "audio/songs/massage-gen9.grid.json",
+        "durationSec": 98.8
+      },
+      {
+        "id": "massage-gen11",
+        "title": "재즈 하우스",
+        "bgm": "audio/songs/massage-gen11.mp3",
+        "grid": "audio/songs/massage-gen11.grid.json",
+        "durationSec": 98.8
+      },
+      {
+        "id": "massage-gen12",
+        "title": "해변 마사지",
+        "bgm": "audio/songs/massage-gen12.mp3",
+        "grid": "audio/songs/massage-gen12.grid.json",
         "durationSec": 98.8
       }
     ]

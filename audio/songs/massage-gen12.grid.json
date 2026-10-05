@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "source": "flow-music",
+  "audio": "massage-gen12.mp3",
+  "bpm": 124,
+  "offsetSec": 0.5,
+  "beatsPerBar": 4,
+  "bars": 48,
+  "durationSec": 98.7742,
+  "beats": null
+}

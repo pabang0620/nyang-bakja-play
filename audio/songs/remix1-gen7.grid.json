@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "source": "flow-music",
+  "audio": "remix1-gen7.mp3",
+  "bpm": 116,
+  "offsetSec": 0.57179,
+  "beatsPerBar": 4,
+  "bars": 56,
+  "durationSec": 122.0718,
+  "beats": null
+}
