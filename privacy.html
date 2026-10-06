@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>냥박자 개인정보 안내</title>
+  <meta name="description" content="냥박자가 저장하고 보내는 정보와 지우는 방법" />
+  <link rel="canonical" href="https://pabang0620.github.io/nyang-bakja-play/privacy.html" />
+  <link rel="icon" type="image/png" sizes="32x32" href="./icons/favicon-32.png" />
+  <style>
+    :root { color-scheme: light; }
+    body { margin: 0; background: #fbf3e5; color: #3b2f26; font: 16px/1.75 system-ui, -apple-system, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif; word-break: keep-all; }
+    main { max-width: 720px; margin: 0 auto; padding: 40px 20px 64px; }
+    h1 { font-size: 28px; margin: 0 0 8px; }
+    h2 { font-size: 19px; margin: 32px 0 8px; }
+    p, li { margin: 6px 0; }
+    ul { padding-left: 20px; }
+    table { width: 100%; border-collapse: collapse; margin: 8px 0; font-size: 15px; }
+    th, td { text-align: left; vertical-align: top; padding: 8px 6px; border-bottom: 1px solid #dcc9ac; }
+    th { white-space: nowrap; }
+    code { background: #f0e3cc; padding: 1px 5px; border-radius: 4px; }
+    .muted { color: #79664f; font-size: 14px; }
+    a { color: #b8452c; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>냥박자 개인정보 안내</h1>
+  <p class="muted">2026년 10월 6일부터 적용</p>
+  <p>냥박자는 회원가입·로그인이 없는 웹 게임입니다. 이름, 이메일, 전화번호처럼 나를 알아볼 수 있는 정보는 받지 않습니다.</p>
+
+  <h2>내 기기(브라우저)에만 저장하는 것</h2>
+  <ul>
+    <li>최고 기록, 마지막으로 한 게임·난이도·곡, 박자 보정 값, 음량·진동 설정</li>
+    <li>기록 계정 토큰(아래 순위표용 무작위 문자열)</li>
+    <li>방문자 구분 값(아래 통계용 무작위 문자열)</li>
+  </ul>
+  <p>브라우저의 사이트 데이터를 지우면 모두 사라집니다.</p>
+
+  <h2>서버로 보내는 것</h2>
+  <table>
+    <tr><th>순위표</th><td>판 결과(게임, 난이도, 곡, 점수, 판정 수, 최대 콤보), 직접 정한 닉네임, 계정 토큰의 해시. 순위표에는 닉네임과 점수만 보입니다. 연습·부분 판은 보내지 않습니다.</td></tr>
+    <tr><th>이용 통계</th><td>방문, 판 시작·끝, 공유하기를 누른 횟수를 셉니다. 함께 보내는 값은 방문자 구분 값, 어느 경로로 왔는지(링크의 <code>utm_*</code>·<code>ref</code>, 들어온 사이트 주소), 휴대폰인지 여부, 게임·난이도, 화면 오류 문구입니다.</td></tr>
+  </table>
+  <p>IP 주소는 저장하지 않습니다. 다만 기록 계정을 만들 때 같은 곳에서 너무 많이 만들지 못하게 IP 주소를 1시간 동안 확인용으로 남깁니다.</p>
+  <p>브라우저에서 <b>추적 안 함(Do Not Track)</b> 또는 <b>Global Privacy Control</b>을 켜면 이용 통계를 보내지 않습니다.</p>
+  <p>서버는 Supabase(서울 리전)를 쓰며, 광고나 다른 회사와의 공유에는 쓰지 않습니다.</p>
+
+  <h2>지우고 싶을 때</h2>
+  <p>브라우저의 사이트 데이터를 지우면 기기 쪽 정보는 바로 사라집니다. 서버의 순위표 기록 삭제를 원하면 아래 저장소의 이슈로 닉네임을 알려 주세요.</p>
+  <p><a href="https://github.com/pabang0620/nyang-bakja-play/issues">문의: GitHub 이슈</a></p>
+
+  <p style="margin-top:40px"><a href="./">← 냥박자로 돌아가기</a></p>
+</main>
+</body>
+</html>
